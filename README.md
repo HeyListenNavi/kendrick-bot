@@ -7,7 +7,7 @@ A simple discord bot that notifies me when Kendrick Lamar uploads a new song
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the bot.
 
 ```bash
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Contributing
